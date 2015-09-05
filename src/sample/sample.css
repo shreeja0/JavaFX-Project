@@ -1,0 +1,11 @@
+.root{
+-fx-background-color: #111111;
+
+}
+.messageLabel{
+-fx-text-fill: #00ff00;
+
+}
+.footer{
+-fx-font-size: 12pt;
+}
